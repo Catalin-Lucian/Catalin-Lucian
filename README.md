@@ -4,7 +4,6 @@
 Iași, Romania | Open to EU Remote / Hybrid  
 [GitHub](https://github.com/Catalin-Lucian) | [LinkedIn](https://www.linkedin.com/in/catalin-lucian/)  
 
----
 
 ## 💡 About Me
 
@@ -12,7 +11,6 @@ I’m a curious and driven **Software Engineer** specializing in **automation, s
 
 I build tools that reduce manual work, streamline execution, and improve reliability. I enjoy working with **DevOps pipelines, Python automation, and CI/CD workflows**, and I’m continuously learning modern infrastructure and cloud practices.  
 
----
 
 ## 🛠 Core Skills
 
@@ -22,7 +20,6 @@ I build tools that reduce manual work, streamline execution, and improve reliabi
 | Bash / Shell scripting | GitHub Actions | Agile / Scrum | Workflow standardization | Logging & diagnostics |
 | Execution & environment automation | Build & release automation | AI-assisted PR reviews | Productivity & usability | Reliability & repeatability |
 
----
 
 ## 📌 Skill Badges
 
@@ -32,7 +29,6 @@ I build tools that reduce manual work, streamline execution, and improve reliabi
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333?style=for-the-badge&logo=github-actions&logoColor=white)  
 ![Linux](https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=linux&logoColor=FCC624)  
 
----
 
 ## 💼 Professional Experience
 
@@ -79,7 +75,6 @@ I build tools that reduce manual work, streamline execution, and improve reliabi
 
 </details>
 
----
 
 ## 🎯 Foundations & Supporting Knowledge
 
@@ -88,7 +83,6 @@ I build tools that reduce manual work, streamline execution, and improve reliabi
 - **Full-Stack & Mobile (Working Knowledge)**: Exposure to frontend & mobile frameworks, hands-on projects, continuous learning  
 - **DevOps & Cloud (Actively Developing)**: CI/CD concepts, infrastructure automation, modern DevOps tooling  
 
----
 
 ## 🚀 Projects & Open Source
 
@@ -122,7 +116,6 @@ Flutter app for uploading files to S3 buckets.
 [GitHub Repository](https://github.com/Catalin-Lucian/Dropi)
 </details>
 
----
 
 ## 🎓 Education
 
@@ -130,7 +123,6 @@ Flutter app for uploading files to S3 buckets.
 - Master’s Degree – Distributed Systems and Web Technologies  
 - Bachelor’s Degree – Computers and Information Technology  
 
----
 
 ## 📫 Contact
 
