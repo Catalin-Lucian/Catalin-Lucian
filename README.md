@@ -2,8 +2,9 @@
 
 **Senior Software Engineer – Automation, CI/CD & Systems Tooling**  
 Iași, Romania | Open to EU Remote / Hybrid  
-[GitHub](https://github.com/Catalin-Lucian) | [LinkedIn](#)  
+[GitHub](https://github.com/Catalin-Lucian) | [LinkedIn](https://www.linkedin.com/in/catalin-lucian/)  
 
+---
 
 ## 💡 About Me
 
@@ -11,21 +12,27 @@ I’m a curious and driven **Software Engineer** specializing in **automation, s
 
 I build tools that reduce manual work, streamline execution, and improve reliability. I enjoy working with **DevOps pipelines, Python automation, and CI/CD workflows**, and I’m continuously learning modern infrastructure and cloud practices.  
 
+---
 
 ## 🛠 Core Skills
 
-| Automation & Scripting | CI/CD & Build Engineering | Version Control & Collaboration |
-|------------------------|--------------------------|--------------------------------|
-| Python (CLI tools, scripts) | Jenkins (pipeline maintenance & optimization) | Git (branching strategies & integration) |
-| Bash / Shell scripting | GitHub Actions (workflow automation) | Agile / Scrum methodologies |
-| Execution & environment automation | Build & release automation | AI-assisted PR reviews |
+| Automation & Scripting | CI/CD & Build Engineering | Version Control & Collaboration | Developer & Tester Tooling | Systems |
+|------------------------|--------------------------|--------------------------------|----------------------------|--------|
+| Python (CLI & scripts) | Jenkins pipelines | Git & branching strategies | Custom CLI & VS Code extensions | Linux environments |
+| Bash / Shell scripting | GitHub Actions | Agile / Scrum | Workflow standardization | Logging & diagnostics |
+| Execution & environment automation | Build & release automation | AI-assisted PR reviews | Productivity & usability | Reliability & repeatability |
 
-| Developer & Tester Tooling | Systems |
-|----------------------------|--------|
-| Custom CLI tools & VS Code extensions | Linux-based development |
-| Workflow standardization & productivity | Logging, diagnostics, reliability |
-| Improving execution consistency | Repeatability & team efficiency |
+---
 
+## 📌 Skill Badges
+
+![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python&logoColor=FFE873)  
+![Bash](https://img.shields.io/badge/-Bash-333?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/-Jenkins-333?style=for-the-badge&logo=jenkins&logoColor=F33826)  
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333?style=for-the-badge&logo=github-actions&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=linux&logoColor=FCC624)  
+
+---
 
 ## 💼 Professional Experience
 
@@ -34,22 +41,22 @@ I build tools that reduce manual work, streamline execution, and improve reliabi
 
 - Work with an existing Python-based integration testing framework for system-level validation  
 - Designed and implemented a **custom Python CLI entry point** to simplify automation, configuration, and execution  
-- Standardized execution flows to reduce manual effort for testers and developers  
+- Standardized execution flows to reduce manual effort  
 - Developed supporting automation scripts to improve environment consistency and reliability  
 - Maintain and extend **CI/CD pipelines** using Jenkins and GitHub Actions  
-- Refined job structures and execution logic to improve pipeline feedback and usability  
-- Promoted adoption of AI-assisted development tools to improve code quality and productivity  
+- Refined job structures and execution logic to improve pipeline feedback  
+- Promoted adoption of AI-assisted development tools to improve code quality  
 
 </details>
 
 <details>
 <summary><strong>Software Engineer – Continental (Jul 2022 – Apr 2024)</strong></summary>
 
-- Modernized a legacy **Python-based build automation tool** for multi-component, multi-variant C projects  
-- Refactored build scripts to improve performance, reliability, and maintainability  
+- Modernized a legacy **Python-based build automation tool**  
+- Refactored scripts to improve performance and maintainability  
 - Enhanced Git integration and automated configuration handling  
 - Improved build diagnostics and logging for faster troubleshooting  
-- Contributed in an Agile team focused on internal tooling improvement  
+- Contributed in an Agile team focused on internal tooling  
 
 </details>
 
@@ -69,10 +76,10 @@ I build tools that reduce manual work, streamline execution, and improve reliabi
 - Co-developed an academic feedback platform  
 - Implemented frontend (Angular) and backend (.NET) components  
 - Applied modular design principles and collaborative workflows  
-- Gained early experience in full-stack development and scripting  
 
 </details>
 
+---
 
 ## 🎯 Foundations & Supporting Knowledge
 
@@ -81,39 +88,41 @@ I build tools that reduce manual work, streamline execution, and improve reliabi
 - **Full-Stack & Mobile (Working Knowledge)**: Exposure to frontend & mobile frameworks, hands-on projects, continuous learning  
 - **DevOps & Cloud (Actively Developing)**: CI/CD concepts, infrastructure automation, modern DevOps tooling  
 
+---
 
 ## 🚀 Projects & Open Source
 
 <details>
-<summary><strong>HelloMail</strong> – Python-based email automation utility</summary>
+<summary><strong>HelloMail</strong> – Python automation utility</summary>
 Streamlines email workflows with Python scripts and automation utilities.  
 [GitHub Repository](https://github.com/Catalin-Lucian/HelloMail)
 </details>
 
 <details>
 <summary><strong>AntColony</strong> – Multi-agent simulation (C#)</summary>
-Simulates ant colony behaviors using multi-agent principles, showcasing distributed logic and algorithmic modeling.  
+Simulates ant colony behaviors, showcasing distributed logic and algorithmic modeling.  
 [GitHub Repository](https://github.com/Catalin-Lucian/AntColony)
 </details>
 
 <details>
 <summary><strong>RayTracing</strong> – CPU/GPU Ray Tracer (C++, CUDA)</summary>
-Implemented a basic ray tracing engine with CPU/GPU parallelism, emphasizing performance-oriented design.  
+Basic ray tracing engine with CPU/GPU parallelism, emphasizing performance.  
 [GitHub Repository](https://github.com/Catalin-Lucian/RayTracing)
 </details>
 
 <details>
 <summary><strong>StudentSatisfaction</strong> – Academic review platform (C#)</summary>
-Full-stack application for student feedback and academic reviews, demonstrating modular design and end-to-end development.  
+Full-stack application for student feedback and academic reviews.  
 [GitHub Repository](https://github.com/Catalin-Lucian/StudentSatisfaction)
 </details>
 
 <details>
 <summary><strong>Dropi</strong> – Mini S3 File Drop Interface (Flutter)</summary>
-Flutter app for uploading files directly to S3 buckets, showcasing mobile and cloud integration skills.  
+Flutter app for uploading files to S3 buckets.  
 [GitHub Repository](https://github.com/Catalin-Lucian/Dropi)
 </details>
 
+---
 
 ## 🎓 Education
 
@@ -121,6 +130,7 @@ Flutter app for uploading files directly to S3 buckets, showcasing mobile and cl
 - Master’s Degree – Distributed Systems and Web Technologies  
 - Bachelor’s Degree – Computers and Information Technology  
 
+---
 
 ## 📫 Contact
 
